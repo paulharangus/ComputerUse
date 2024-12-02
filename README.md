@@ -1,4 +1,3 @@
-# Anthropic Computer Use Demo
 ## Quickstart: running the Docker container
 
 ### Vertex
